@@ -20,6 +20,7 @@ public class Student {
     }
 }
 
+
 class Student2 {
     String name; // information/data/characteristics --> instance variables
     int age;
